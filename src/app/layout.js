@@ -16,8 +16,7 @@ export default function RootLayout({ children }) {
       </nav>
       <body className={inter.className}>{children}</body>
       <footer>
-        <h2>roeibo</h2>
-        <h2>roeibo</h2>
+        <h2>Footer</h2>
       </footer>{" "}
     </html>
   );
