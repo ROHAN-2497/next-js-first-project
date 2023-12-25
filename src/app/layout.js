@@ -17,7 +17,6 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>{children}</body>
       <footer>
         <h2>roeibo</h2>
-        <kbd>lkgit </kbd>
       </footer>{" "}
     </html>
   );
